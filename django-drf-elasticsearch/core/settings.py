@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'blog.apps.BlogConfig',
     'rest_framework',
-    'elasticsearch_dsl_drf',
+    'django_elasticsearch_dsl',
     'search.apps.SearchConfig',
 ]
 
