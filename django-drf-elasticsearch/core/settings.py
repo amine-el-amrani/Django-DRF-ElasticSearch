@@ -139,3 +139,4 @@ ELASTICSEARCH_DSL = {
         "ca_certs": "PATH_TO_http_ca.crt",
     }
 }
+SESSION_COOKIE_SECURE = True
